@@ -65,6 +65,7 @@ a:hover {
   outline: 0;
 }
 
+
 .section {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -106,12 +107,12 @@ a:hover {
   display: unset !important;
 }
 
-.bg-primary {
-  background: $primary-color !important;
-}
-
 .bg-gray{
   background: $gray !important;
+}
+
+.bg-primary {
+  background: $background-image !important;
 }
 
 .text-primary {
@@ -255,6 +256,7 @@ a:hover {
     box-shadow: none !important;
   }
 }
+
 
 textarea.form-control{
   height: 120px;

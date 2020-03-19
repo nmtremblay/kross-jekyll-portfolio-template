@@ -3,12 +3,8 @@
 
 title: Nina Maria Tremblay
 logo: logo.png
-email: steve.fruits@email.com
-phone: +
-address: 125/A, CA Commercial Area, California, USA
-
+email: ninaornina@gmail.com
 menu:
-- {name: About, link: '/about/'}
 - {name: Blog, link: '/blog/'}
 - {name: Portfolio, link: '/portfolio/'}
 - {name: Contact, link: '/contact/'}
@@ -36,7 +32,6 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   hero-title: Hi! I’m <br> Nina Maria <br>
-  hero-subtitle: Machine Learning Developer <br> Genomics Enthusiast
 
 social:
 - {icon: "ti-instagram", link: "#"}
@@ -49,7 +44,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  iusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -150,10 +145,10 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/joanne.png"
     url: "#"
 
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/walle.png"
     url: "#"
 
   - image : "assets/images/portfolio/item-3.png"
@@ -238,7 +233,7 @@ portfolio-items:
 testimonial-items:
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
+    designation : "CEO, Funder"9=[]
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
   - name: "Jesica Gomez"
