@@ -145,19 +145,19 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/joanne.png"
+  - image : "assets/images/portfolio/evan.jpg"
     url: "#"
 
-  - image : "assets/images/portfolio/walle.png"
+  - image : "assets/images/portfolio/walle.mpg"
     url: "#"
 
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/lofi.jpg"
     url: "#"
 
-  - image : "assets/images/portfolio/item-4.png"
+  - image : "assets/images/portfolio/chory.jpg"
     url: "#"
 
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/judge.jpg"
     url: "#"
 
 
